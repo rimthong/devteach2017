@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "botkit": "^0.5.5",
+    "botkit-middleware-apiai": "^0.1.1",
+    "cheerio": "^1.0.0-rc.1",
+    "sqlite3": "^3.1.8"
+  }
+}
